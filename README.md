@@ -1,79 +1,45 @@
-# 🥋 I Know Kung Fu
+# I Know Kung Fu Too
 
-<p align="center">
-  <img src="assets/Neo-plugged.jpg" alt="Neo plugged into the Matrix" width="600"/>
-</p>
-
-<p align="center"><em>“I know kung fu.” — Neo<br>
-Image © Warner Bros. Pictures, used under fair use for educational and thematic purposes.</em></p>
-
-🥋 **Welcome to the dojo.**
-
-> _“I know kung fu.” — Neo_
-
-This repository is named after that iconic moment—not because we teach martial arts, but because of what it symbolizes: the instant transfer of skill, knowledge, and capability. That’s the promise of AI agents. That’s what this repo helps you unlock.
-
-Whether you're a Microsoft partner, customer, trainer, or simply #EternallyCurious, this is your plug-in point to accelerated learning. Inside, you’ll find modular resources to help you master Copilot Studio, Azure AI Foundry, Agent Framework, Power Platform, and Modern Work—through demos, playbooks, and thematic training modules.
-
-> _“What are you waiting for?” — Morpheus_
-
-Start with [`training-modules/`](training-modules/) to begin your journey.
+Training and deployment resources for Microsoft AI and Modern Work, built from field experience.
 
 ---
 
-> This is where your “I know kung fu” moment begins.
+## Overview
 
+This repository provides practical training materials, demo templates, and adoption playbooks for Microsoft's AI and Modern Work stack. It's built from resources that have been tested in actual customer engagements and partner deliveries.
 
+You'll find working examples for Copilot Studio, Azure AI Foundry, Agent Framework, Power Platform, and related Modern Work services.
 
----
+## What's Here
 
-## 🎯 Purpose
+- **Training Modules**: Session outlines and learning paths
+- **Demo Templates**: Runnable scenarios with sample data
+- **Adoption Playbooks**: Deployment strategies from actual rollouts
+- **Partner Resources**: Delivery checklists and positioning guides
+- **Multilingual Assets**: Translated materials for global deployments
 
-This repository equips Microsoft partners and customers with:
-- Training modules and enablement decks
-- Real-world demos and templates
-- Adoption playbooks and onboarding guides
-- Multilingual resources for global rollout
-- Strategic frameworks for AI and Modern Work
+## Quick Start
 
----
+1. Fork this repository
+2. Review the `training-modules/` directory for foundational material
+3. Adapt demo templates in `copilot-demos/` for your needs
+4. Use playbooks from `customer-playbooks/` to guide deployments
 
-## 🗂️ Repo Structure
+## Limitations
 
-| Folder | Description |
-|--------|-------------|
-| `assets/` | Images, logos, branding visuals (e.g., Neo_plugged.jpg) |
-| `docs/` | Markdown guides, onboarding instructions, architecture diagrams |
-| `training-modules/` | Slide decks, session outlines, recordings 🥋 |
-| `copilot-demos/` | Templates, walkthroughs, mock data |
-| `partner-resources/` | Battlecards, competitive positioning |
-| `customer-playbooks/` | Adoption strategies, onboarding flows |
-| `multilingual-assets/` | Translated materials |
-| `community-links/` | Forums, blogs, videos |
+These materials assume access to Microsoft's commercial platforms and may require adjustment for specific organizational policies or license configurations.
 
-> 🥋 **First time here? Begin your journey in [`training-modules/`](training-modules/)**  
-> It’s where the onboarding guides, field notes, and learning modules live.
+## Attribution
 
----
+Created by Superinstance & Lucineer (DiGennaro et al.). Part of the Cocapn Fleet.
 
-## 🧠 Who This Is For
+## License
 
-- Microsoft partners delivering enablement sessions
-- Customers adopting AI and Modern Work solutions
-- Trainers, consultants, and strategists building scalable programs
-- Anyone who wants to move from “I’m curious” to “I know kung fu”
+MIT
 
 ---
 
-## 🤝 Contributions
-
-Fork it. Clone it. Add your moves.  
-This dojo is open to all who seek mastery.
-
----
-
-## 📬 Contact
-
-🧠 Maintained and curated with care by [Alejandro Araujo](https://www.linkedin.com/in/a2araujo)  
-💬 For feedback, sparring, or collaboration, open an issue or connect via LinkedIn.  
-🏷️ #EternallyCurious
+<div>
+  <a href="https://the-fleet.casey-digennaro.workers.dev">The Fleet</a> •
+  <a href="https://cocapn.ai">Cocapn</a>
+</div>
